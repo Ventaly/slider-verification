@@ -1,4 +1,4 @@
-![这是一张图片](img.png)
+<img src=image.png" alt="示例图片" style="width: 512px; height: auto;" />
 # 自助验证码滑动解决方案
 
 本项目实现了一个使用Python和Playwright自动解决滑动验证码（如滑动拼图）的方案，主要通过图像处理技术识别缺口位置，并模拟人类滑动行为完成滑动验证。
