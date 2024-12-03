@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align=center>
 ![这是一张图片](img.png)
 </div>
 # 自助验证码滑动解决方案
